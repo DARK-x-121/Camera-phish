@@ -1,0 +1,1 @@
+CAMERA PHISHThis tool is an advanced Cloudflare-based phishing tool by Team Dark that creates a fake verification page to request camera access from the victim. If the victim grants access, their photo is captured and logged with IP and device info. The tool uses Cloudflare tunneling for secure, anonymous links. This is strictly for educational purposes only.
